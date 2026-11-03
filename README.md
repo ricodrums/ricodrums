@@ -81,6 +81,6 @@ I focus on delivering high-quality, performant, and user-centric solutions.
 ---
 
 ### 📫 Connect with me
-*   **LinkedIn:** [linkedin.com/in/xricoxdrumsx](https://www.linkedin.com/in/jhonatan-david-rico/)
+*   **LinkedIn:** [linkedin.com/in/jhonatan-david-rico](https://www.linkedin.com/in/jhonatan-david-rico/)
 *   **GitLab:** [gitlab.com/xricoxdrumsx](https://gitlab.com/xricoxdrumsx)
 *   *Portfolio Website: Coming soon...*
