@@ -81,6 +81,6 @@ Me enfoco en entregar soluciones de alta calidad, rápidas y centradas en el usu
 ---
 
 ### 📫 Conéctate conmigo
-*   **LinkedIn:** [linkedin.com/in/xricoxdrumsx](https://www.linkedin.com/in/jhonatan-david-rico/)
+*   **LinkedIn:** [linkedin.com/in/jhonatan-david-rico](https://www.linkedin.com/in/jhonatan-david-rico/)
 *   **GitLab:** [gitlab.com/xricoxdrumsx](https://gitlab.com/xricoxdrumsx)
 *   *Sitio Web de Portafolio: Próximamente...*
